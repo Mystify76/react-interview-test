@@ -1,14 +1,17 @@
 David Gallant Interview Test Things To Do:
 
-* Update dependencies just to show that I can.
+* add a favicon.ico to the project.
+~~* Update dependencies in client (To show I can)~~
+~~* Update webpack advanced settings (just to show I know how to use webpack)~~
+* Update server dependencies  
 * Update everything that was effected by the React and webpack update and other deps  
-* Add LESS support to project and webpack
-* Add HappyPack support to webpack
-* Add SplitChunks plugin to webpack
-* Add CleanWebpackPlugin plugin to webpack
-* Update babel settings  
-* Add MiniCssExtractPlugin plugin to webpack
-* Add typical file loaders and rules to webpack
+~~* Add LESS support to project and webpack~~
+~~* Add HappyPack support to webpack~~
+~~* Add SplitChunks plugin to webpack~~
+~~* Add CleanWebpackPlugin plugin to webpack~~
+~~* Update babel settings~~  
+~~* Add MiniCssExtractPlugin plugin to webpack~~
+~~* Add typical file loaders and rules to webpack~~
 * Create and setup a unit testing framework
 * Create server APIs:
     * Create user
@@ -18,7 +21,6 @@ David Gallant Interview Test Things To Do:
     * like item
 * Add daily backup of database
 * Modify retrieve item info to include things like likes
-
 * Create "Guest" account that is used when not logged in
 * Create a header bar
     * Show a login button

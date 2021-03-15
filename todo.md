@@ -11,8 +11,7 @@ David Gallant Interview Test Things To Do:
     + ~~Add MiniCssExtractPlugin plugin to webpack~~
     + ~~Add typical file loaders and rules to webpack~~
     + ~~Update module webpack advanced settings~~
-+ Update server dependencies
-+ Update everything that was effected by the React and webpack update and other deps  
++ ~~Update server dependencies~~
 + Create and setup a unit testing framework
 + Update user database schema to:
     + include cart id items and relevant information

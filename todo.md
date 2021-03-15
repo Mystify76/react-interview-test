@@ -1,5 +1,14 @@
 David Gallant Interview Test Things To Do:
 
+* Update dependencies just to show that I can.
+* Update everything that was effected by the React and webpack update and other deps  
+* Add LESS support to project and webpack
+* Add HappyPack support to webpack
+* Add SplitChunks plugin to webpack
+* Add CleanWebpackPlugin plugin to webpack
+* Update babel settings  
+* Add MiniCssExtractPlugin plugin to webpack
+* Add typical file loaders and rules to webpack
 * Create and setup a unit testing framework
 * Create server APIs:
     * Create user
